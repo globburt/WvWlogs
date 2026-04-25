@@ -1,0 +1,34 @@
+{
+  "colorPalette": "refined-cyan",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260422-201742-7ku4",
+      "title": "Link Does Damage",
+      "commanders": [
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-04-23T00:17:42.000Z",
+      "dateEnd": "2026-04-23T02:26:47.000Z",
+      "dateLabel": "4/22/2026, 8:17:42 PM - 4/22/2026, 10:26:47 PM",
+      "url": "https://globburt.github.io/WvWlogs/?report=20260422-201742-7ku4",
+      "summary": {
+        "borderlandsPct": 0.75,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 34
+      }
+    }
+  ]
+}
